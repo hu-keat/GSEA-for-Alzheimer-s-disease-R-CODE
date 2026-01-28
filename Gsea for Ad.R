@@ -694,3 +694,4 @@ if (exists("go_descriptions")) {
 
 # Print results
 print(go_sizes_df)
+```
